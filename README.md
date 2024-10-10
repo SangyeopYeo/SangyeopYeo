@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=150&section=header&text=Our%20paper%20is%20accepted%20on%20ECCV%20\2024.&fontSize=60&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10)
+![header](https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=150&section=header&text=Our%20paper%20is%20accepted%20on%20ECCV%202024.&fontSize=60&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10)
 
 ## Notice
 Title: (ECCV 2024) Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation
@@ -20,9 +20,9 @@ I am very interested in generative models to better understand the world. To ach
 
 ## Research Interests
 * Multi-modal generative models
-  * ff
-** ff
+  * Video, 3D, audio, and language
 * Efficient deep generative models
+  * Lightweight models, and few-shot learning
 
 ## Organization
 * LAIT - https://github.com/LAIT-CVLa
