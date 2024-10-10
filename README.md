@@ -19,7 +19,7 @@ I am very interested in understanding and expressing the world we live in. Gener
 
 Even if we model the world excellently, if only a few people can benefit from it, it cannot reach its true value. Therefore, I am also deeply interested in personalized generative models. In particular, my research focuses on computationally efficient and data-efficient generative models to address the cost challenges that pose significant barriers to personalization. Lightweight generative models and few-shot generation enable generative models to perform well in personal environments where computational resources and data are limited.
 
-If you have a question about me, you can freely ask me anytime.
+If you have any questions about me, feel free to ask anytime.
 
 ## Curriculum Vitae
 [Curriculum Vitae](https://sangyeopyeo.github.io/assets/cv/Curriculum_Vitae.pdf)
