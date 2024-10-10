@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=150&section=header&text=Our%20paper%20is%20accepted%20on%20ECCV%202024.&fontSize=60&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10)
+![header](https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=150&section=header&text=Our%20paper%20is%20accepted%20on%20ECCV%202024.&fontSize=45&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10)
 
 ## Notice
 Title: (ECCV 2024) Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation
@@ -58,18 +58,18 @@ Topic: Disease detection via medical image analysis
 </div>
 </details>
 
-## Publication
-### Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation
-*Sangyeop Yeo, Yoojin Jang, Jaejun Yoo*
-*European Conference on Computer Vision (ECCV), October 2024*
+## Publication :tada:
+### Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation  
+*Sangyeop Yeo, Yoojin Jang, Jaejun Yoo*  
+*European Conference on Computer Vision (ECCV), October 2024*  
 *[project page](https://sangyeopyeo.github.io/Nickel_and_Diming_Your_GAN/) (First)*
 
-### Can We Find Strong Lottery Tickets in Generative Models?
-*Sangyeop Yeo, Yoojin Jang, Jy-yong Sohn, Dongyoon Han, Jaejun Yoo*
-*Association for the Advancement of Artificial Intelligence (AAAI), February 2023*
+### Can We Find Strong Lottery Tickets in Generative Models?  
+*Sangyeop Yeo, Yoojin Jang, Jy-yong Sohn, Dongyoon Han, Jaejun Yoo*  
+*Association for the Advancement of Artificial Intelligence (AAAI), February 2023*  
 *[project page](https://sangyeopyeo.github.io/SLT-in-Generative-Models/) (First, Oral)*
 
-## Contact
+## Contact 📫
 e-mail: sangyeop377@gmail.com
 
 <!--
