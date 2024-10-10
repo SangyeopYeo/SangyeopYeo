@@ -13,7 +13,9 @@ I'm sangyeop. I obtained B.S.(2021) degree from Electrical and Computer Engineer
 
 Currently, I'm a M.S. & Ph.D. course student at Laboratory of Advanced Imaging Technology (LAIT) in the Artificial Intelligence Graduate School (AIGS) at Ulsan National Institute of Science and Technology (UNIST), under the supervision of Prof.Jaejun Yoo.
 
-I am very interested in generative models to better understand the world. To achieve this, I need a deep understanding of language, video, audio, and 3D, and I am particularly focused on multi-modal generative models that can effectively integrate these elements. Additionally, I am addressing challenges related to lightweight models and few-shot learning to ensure they perform well in personal environments with limited data. If you have a question about me, you can freely ask me anytime.
+I am very interested in generative models to better understand the world. To achieve this, I need a deep understanding of language, video, audio, and 3D, and I am particularly focused on multi-modal generative models that can effectively integrate these elements. Additionally, I am addressing challenges related to lightweight models and few-shot learning to ensure they perform well in personal environments with limited data.
+
+If you have a question about me, you can freely ask me anytime.
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%20(programming%20language)-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
@@ -25,7 +27,7 @@ I am very interested in generative models to better understand the world. To ach
   * Lightweight models, and few-shot learning
 
 ## Organization
-* LAIT - https://github.com/LAIT-CVLa
+* LAIT - https://github.com/LAIT-CVLab
 
 ## Experience
 ### 창의자율과제 - 울산과학기술원 (Self-research challenges program for creativeity - UNIST)
