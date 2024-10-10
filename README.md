@@ -21,6 +21,7 @@ Even if we model the world excellently, if only a few people can benefit from it
 
 If you have a question about me, you can freely ask me anytime.
 
+## Curriculum Vitae
 [Curriculum Vitae](https://sangyeopyeo.github.io/assets/cv/Curriculum_Vitae.pdf)
 
 ## Tech Stack
