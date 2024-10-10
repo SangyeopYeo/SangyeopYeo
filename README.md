@@ -59,12 +59,12 @@ Topic: Disease detection via medical image analysis
 </details>
 
 ## Publication :tada:
-### Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation  
+**Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation**  
 *Sangyeop Yeo, Yoojin Jang, Jaejun Yoo*  
 *European Conference on Computer Vision (ECCV), October 2024*  
 *[project page](https://sangyeopyeo.github.io/Nickel_and_Diming_Your_GAN/) (First)*
 
-### Can We Find Strong Lottery Tickets in Generative Models?  
+**Can We Find Strong Lottery Tickets in Generative Models?**  
 *Sangyeop Yeo, Yoojin Jang, Jy-yong Sohn, Dongyoon Han, Jaejun Yoo*  
 *Association for the Advancement of Artificial Intelligence (AAAI), February 2023*  
 *[project page](https://sangyeopyeo.github.io/SLT-in-Generative-Models/) (First, Oral)*
