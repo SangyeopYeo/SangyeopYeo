@@ -13,7 +13,7 @@ I'm sangyeop. I obtained B.S.(2021) degree from Electrical and Computer Engineer
 
 Currently, I'm a M.S. & Ph.D. course student at Laboratory of Advanced Imaging Technology (LAIT) in the Artificial Intelligence Graduate School (AIGS) at Ulsan National Institute of Science and Technology (UNIST), under the supervision of Prof.Jaejun Yoo.
 
-I am very interested in generative models to better understand the world. To achieve this, I need a deep understanding of language, video, audio, and 3D, and I am particularly focused on multi-modal generative models that can effectively integrate these elements. Additionally, I am addressing challenges related to lightweight models and few-shot learning to ensure they perform well in personal environments with limited data.
+I am very interested in generative models to better understand the world. To achieve this, I need a deep understanding of image, video, 3D, language, and audio, and I am particularly focused on multi-modal generative models that can effectively integrate these elements. Additionally, I am addressing challenges related to lightweight models and few-shot learning to ensure they perform well in personal environments with limited data.
 
 If you have a question about me, you can freely ask me anytime.
 
@@ -22,9 +22,9 @@ If you have a question about me, you can freely ask me anytime.
 
 ## Research Interests
 * Multi-modal generative models
-  * Video, 3D, audio, and language
+  * image, video, 3D, language, and audio
 * Efficient deep generative models
-  * Lightweight models, and few-shot learning
+  * lightweight models, and few-shot learning
 
 ## Organization
 * LAIT - https://github.com/LAIT-CVLab
