@@ -2,7 +2,7 @@
 
 ## Notice
 Title: (ECCV 2024) Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation
-Website: https://sangyeopyeo.github.io/Nickel_and_Diming_Your_GAN/
+Website: https://sangyeopyeo.github.io/Nickel_and_Diming_Your_GAN/  
 Authors: Sangyeop Yeo, Yoojin Jang, Jaejun Yoo
 
 Thank you for your interest!
