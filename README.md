@@ -29,7 +29,7 @@ If you have any questions about me, feel free to ask anytime.
 
 ## Research Interests
 * Multi-modal generative models
-  * image, video, 3D, language, and audio
+  * images, videos, 3D representations, language, and audio
 * Efficient deep generative models
   * lightweight models, and few-shot learning and generation
 * Foundation models
