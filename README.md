@@ -17,7 +17,7 @@ My main research area lies at the intersection of ***multi-modal generative mode
 
 I am very interested in understanding and expressing the world we live in. Generative models are a powerful way to model our world, and I have a strong interest in them to better express the real world. To achieve this, we need a deep understanding of the various modalities that make up the world, such as images, videos, 3D representations, language, and audio. I am particularly focused on multi-modal generative models that can effectively integrate these elements, and I also have a strong interest in foundation models to further enrich this expression.
 
-Even if we model the world excellently, if only a few people can benefit from it, it cannot reach its true value. Therefore, I am also deeply interested in personalized generative models. In particular, my research focuses on computationally efficient and data-efficient generative models to address the cost challenges that pose significant barriers to personalization. Lightweight generative models and few-shot learning and generation enable generative models to perform well in personal environments where computational resources and data are limited.
+Even if we model the world excellently, if only a few people can benefit from it, it cannot reach its true value. Therefore, I am also deeply interested in personalized generative models. In particular, my research focuses on computationally efficient and data-efficient generative models to address the cost challenges that pose significant barriers to personalization. Lightweight generative models and few-shot learning and generation enable generative models to perform well in personal environments where computational resources and data are limited. Additionally, I am interested in the controllability and manipulability of generative models to enable users to use them effectively for personalized generative models.
 
 If you have any questions about me, feel free to ask anytime.
 
@@ -32,7 +32,9 @@ If you have any questions about me, feel free to ask anytime.
   * images, videos, 3D representations, language, and audio
 * Efficient deep generative models
   * lightweight models, and few-shot learning and generation
-* Foundation models
+* Controllable generative models
+  * manipulation, and editing
+* Foundation models, and Personalization
 
 ## Organization
 * LAIT - https://github.com/LAIT-CVLab
