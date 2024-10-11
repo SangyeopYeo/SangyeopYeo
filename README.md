@@ -83,7 +83,7 @@ Topic: Disease detection via medical image analysis
 
 ## Contact 📫
 Email: sangyeop377@gmail.com  
-LinkdIn: 
+LinkdIn: https://www.linkedin.com/in/SangyeopYeo/
 
 <!--
 **SangyeopYeo/SangyeopYeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
